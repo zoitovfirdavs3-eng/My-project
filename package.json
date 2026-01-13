@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Start-up",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoitovfirdavs3-eng/Start-up.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zoitovfirdavs3-eng/Start-up/issues"
+  },
+  "homepage": "https://github.com/zoitovfirdavs3-eng/Start-up#readme"
+}
