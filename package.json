@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/zoitovfirdavs3-eng/Start-up/issues"
   },
-  "homepage": "https://github.com/zoitovfirdavs3-eng/Start-up#readme"
+  "homepage": "https://github.com/zoitovfirdavs3-eng/Start-up#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ejs": "^4.0.1",
+    "express": "^5.2.1",
+    "express-ejs-layouts": "^2.5.1",
+    "shokhijakhon-error-handler": "^1.1.0"
+  }
 }
